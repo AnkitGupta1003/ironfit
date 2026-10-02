@@ -9,7 +9,7 @@
 <meta property="og:title" content="IronFit Gym — Strength Is Built, Not Born">
 <meta property="og:description" content="Coaching-first strength & conditioning gym in Riverside. Free weights, 60+ weekly classes, 24/7 member access. First session free.">
 <meta property="og:type" content="website">
-<meta property="og:image" content="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=1200&h=630&auto=format&fit=crop">
+<meta property="og:image" content="https://picsum.photos/seed/ironfit-gym-floor/1200/630.jpg">
 <script>document.documentElement.classList.replace('no-js','js');</script>
 <script src="https://unpkg.com/lucide@latest" defer></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -507,7 +507,8 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 <!-- ============ HERO ============ -->
 <section class="hero" id="home">
   <div class="hero-bg">
-    <img src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=2000&auto=format&fit=crop" alt="The main training floor at IronFit Gym" fetchpriority="high" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-main-gym/1920/1200.jpg'">
+    <!-- Replace with real gym photography for production -->
+    <img src="https://picsum.photos/seed/ironfit-main-gym/1920/1200.jpg" alt="The main training floor at IronFit Gym" fetchpriority="high">
   </div>
   <div class="container">
     <p class="hero-eyebrow hero-fade">Riverside &middot; Est. 2013 &middot; Open 24/7</p>
@@ -589,10 +590,10 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
   <div class="container about-grid">
     <div class="about-media" data-reveal>
       <figure class="about-img-main">
-        <img src="https://images.unsplash.com/photo-1549060279-7e168fcee0c2?q=80&w=900&auto=format&fit=crop" alt="The free-weight floor at IronFit" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-gymfloor/840/1050.jpg'">
+        <img src="https://picsum.photos/seed/ironfit-gymfloor/840/1050.jpg" alt="The free-weight floor at IronFit" loading="lazy" decoding="async">
       </figure>
       <figure class="about-img-small">
-        <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=700&auto=format&fit=crop" alt="Barbells and training equipment on the gym floor" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-detail/620/460.jpg'">
+        <img src="https://picsum.photos/seed/ironfit-detail/620/460.jpg" alt="Kettlebells and training detail" loading="lazy" decoding="async">
       </figure>
       <div class="about-badge">
         <strong>12,000</strong>
@@ -639,7 +640,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
       <p class="section-lead">Capped class sizes, real coaching, all levels. Included with Performance &amp; Flex — or drop in for $12.</p>
     </div>
     <ul class="class-list" data-reveal>
-      <li class="class-item" data-img="https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=700&auto=format&fit=crop" data-fallback="https://picsum.photos/seed/ironfit-strength/640/440.jpg">
+      <li class="class-item" data-img="https://picsum.photos/seed/ironfit-strength/640/440.jpg">
         <button class="class-row" id="cbtn-1" aria-expanded="false" aria-controls="cpanel-1">
           <span class="class-index">01</span>
           <span class="class-name">Strength Foundations</span>
@@ -649,7 +650,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
         <div class="class-panel" id="cpanel-1" role="region" aria-labelledby="cbtn-1">
           <div class="class-panel-clip">
             <div class="class-panel-inner">
-              <figure class="class-panel-img"><img src="https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?q=80&w=700&auto=format&fit=crop" alt="" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-strength/640/440.jpg'"></figure>
+              <figure class="class-panel-img"><img src="https://picsum.photos/seed/ironfit-strength/640/440.jpg" alt="" loading="lazy" decoding="async"></figure>
               <div class="class-panel-copy">
                 <p>Learn the barbell basics — squat, press and deadlift — with a coach watching every rep. Small groups mean real corrections, not a workout video with a live soundtrack.</p>
                 <div class="class-facts">
@@ -663,7 +664,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
           </div>
         </div>
       </li>
-      <li class="class-item" data-img="https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?q=80&w=700&auto=format&fit=crop" data-fallback="https://picsum.photos/seed/ironfit-conditioning/640/440.jpg">
+      <li class="class-item" data-img="https://picsum.photos/seed/ironfit-conditioning/640/440.jpg">
         <button class="class-row" id="cbtn-2" aria-expanded="false" aria-controls="cpanel-2">
           <span class="class-index">02</span>
           <span class="class-name">HIIT Conditioning</span>
@@ -673,7 +674,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
         <div class="class-panel" id="cpanel-2" role="region" aria-labelledby="cbtn-2">
           <div class="class-panel-clip">
             <div class="class-panel-inner">
-              <figure class="class-panel-img"><img src="https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?q=80&w=700&auto=format&fit=crop" alt="" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-conditioning/640/440.jpg'"></figure>
+              <figure class="class-panel-img"><img src="https://picsum.photos/seed/ironfit-conditioning/640/440.jpg" alt="" loading="lazy" decoding="async"></figure>
               <div class="class-panel-copy">
                 <p>Intervals on rowers, sleds and kettlebells. Forty-five minutes, zero wasted motion — scaled up or down so every fitness level leaves appropriately sweaty.</p>
                 <div class="class-facts">
@@ -687,7 +688,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
           </div>
         </div>
       </li>
-      <li class="class-item" data-img="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&w=700&auto=format&fit=crop" data-fallback="https://picsum.photos/seed/ironfit-powerlifting/640/440.jpg">
+      <li class="class-item" data-img="https://picsum.photos/seed/ironfit-powerlifting/640/440.jpg">
         <button class="class-row" id="cbtn-3" aria-expanded="false" aria-controls="cpanel-3">
           <span class="class-index">03</span>
           <span class="class-name">Powerlifting Club</span>
@@ -697,7 +698,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
         <div class="class-panel" id="cpanel-3" role="region" aria-labelledby="cbtn-3">
           <div class="class-panel-clip">
             <div class="class-panel-inner">
-              <figure class="class-panel-img"><img src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&w=700&auto=format&fit=crop" alt="" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-powerlifting/640/440.jpg'"></figure>
+              <figure class="class-panel-img"><img src="https://picsum.photos/seed/ironfit-powerlifting/640/440.jpg" alt="" loading="lazy" decoding="async"></figure>
               <div class="class-panel-copy">
                 <p>Periodised squat, bench and deadlift programming in a team setting — plus meet prep for anyone who wants to test themselves on the platform.</p>
                 <div class="class-facts">
@@ -711,7 +712,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
           </div>
         </div>
       </li>
-      <li class="class-item" data-img="https://images.unsplash.com/photo-1521804906078-696072aa579a?q=80&w=700&auto=format&fit=crop" data-fallback="https://picsum.photos/seed/ironfit-oly/640/440.jpg">
+      <li class="class-item" data-img="https://picsum.photos/seed/ironfit-oly/640/440.jpg">
         <button class="class-row" id="cbtn-4" aria-expanded="false" aria-controls="cpanel-4">
           <span class="class-index">04</span>
           <span class="class-name">Olympic Weightlifting</span>
@@ -721,7 +722,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
         <div class="class-panel" id="cpanel-4" role="region" aria-labelledby="cbtn-4">
           <div class="class-panel-clip">
             <div class="class-panel-inner">
-              <figure class="class-panel-img"><img src="https://images.unsplash.com/photo-1521804906078-696072aa579a?q=80&w=700&auto=format&fit=crop" alt="" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-oly/640/440.jpg'"></figure>
+              <figure class="class-panel-img"><img src="https://picsum.photos/seed/ironfit-oly/640/440.jpg" alt="" loading="lazy" decoding="async"></figure>
               <div class="class-panel-copy">
                 <p>Snatch and clean &amp; jerk technique, from first pull to full squat. Platform time, video review and as much patience as the bar demands.</p>
                 <div class="class-facts">
@@ -735,7 +736,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
           </div>
         </div>
       </li>
-      <li class="class-item" data-img="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=700&auto=format&fit=crop" data-fallback="https://picsum.photos/seed/ironfit-kettlebell/640/440.jpg">
+      <li class="class-item" data-img="https://picsum.photos/seed/ironfit-kettlebell/640/440.jpg">
         <button class="class-row" id="cbtn-5" aria-expanded="false" aria-controls="cpanel-5">
           <span class="class-index">05</span>
           <span class="class-name">Kettlebell &amp; Core</span>
@@ -745,7 +746,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
         <div class="class-panel" id="cpanel-5" role="region" aria-labelledby="cbtn-5">
           <div class="class-panel-clip">
             <div class="class-panel-inner">
-              <figure class="class-panel-img"><img src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=700&auto=format&fit=crop" alt="" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-kettlebell/640/440.jpg'"></figure>
+              <figure class="class-panel-img"><img src="https://picsum.photos/seed/ironfit-kettlebell/640/440.jpg" alt="" loading="lazy" decoding="async"></figure>
               <div class="class-panel-copy">
                 <p>Swings, carries and ground-based core work that carries over to everything else you do — inside the gym and out of it.</p>
                 <div class="class-facts">
@@ -759,7 +760,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
           </div>
         </div>
       </li>
-      <li class="class-item" data-img="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=700&auto=format&fit=crop" data-fallback="https://picsum.photos/seed/ironfit-mobility/640/440.jpg">
+      <li class="class-item" data-img="https://picsum.photos/seed/ironfit-mobility/640/440.jpg">
         <button class="class-row" id="cbtn-6" aria-expanded="false" aria-controls="cpanel-6">
           <span class="class-index">06</span>
           <span class="class-name">Mobility &amp; Recovery</span>
@@ -769,7 +770,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
         <div class="class-panel" id="cpanel-6" role="region" aria-labelledby="cbtn-6">
           <div class="class-panel-clip">
             <div class="class-panel-inner">
-              <figure class="class-panel-img"><img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=700&auto=format&fit=crop" alt="" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-mobility/640/440.jpg'"></figure>
+              <figure class="class-panel-img"><img src="https://picsum.photos/seed/ironfit-mobility/640/440.jpg" alt="" loading="lazy" decoding="async"></figure>
               <div class="class-panel-copy">
                 <p>Guided stretching, foam rolling and breathwork — the class everyone swears they'll start taking. Start this Sunday.</p>
                 <div class="class-facts">
@@ -804,7 +805,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
     <div class="trainer-grid">
       <article class="trainer" data-reveal>
         <div class="trainer-photo">
-          <img src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&w=700&h=933&auto=format&fit=crop&crop=faces" alt="Marcus Cole, Head Coach at IronFit" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-marcus/640/800.jpg'">
+          <img src="https://picsum.photos/seed/ironfit-marcus/640/800.jpg" alt="Marcus Cole, Head Coach at IronFit" loading="lazy" decoding="async">
           <div class="trainer-hover">
             <p>Former national-level powerlifter with a 300&nbsp;kg total. Runs the Powerlifting Club and has coached 40+ athletes onto competition podiums.</p>
             <p><strong>Focus:</strong> squat mechanics, meet prep, beginner barbell.</p>
@@ -817,7 +818,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
       </article>
       <article class="trainer" data-reveal style="--rd:.08s">
         <div class="trainer-photo">
-          <img src="https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?q=80&w=700&h=933&auto=format&fit=crop&crop=faces" alt="Dana Whitfield, conditioning coach at IronFit" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-dana/640/800.jpg'">
+          <img src="https://picsum.photos/seed/ironfit-dana/640/800.jpg" alt="Dana Whitfield, conditioning coach at IronFit" loading="lazy" decoding="async">
           <div class="trainer-hover">
             <p>Dana's classes are the reason half the 6&nbsp;a.m. crew shows up — and the reason they keep showing up. She builds conditioning programs that respect your knees.</p>
             <p><strong>Focus:</strong> HIIT, sustainable fat loss, returning to training.</p>
@@ -830,7 +831,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
       </article>
       <article class="trainer" data-reveal style="--rd:.16s">
         <div class="trainer-photo">
-          <img src="https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?q=80&w=700&h=933&auto=format&fit=crop&crop=faces" alt="James Okafor, Olympic weightlifting coach at IronFit" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-james/640/800.jpg'">
+          <img src="https://picsum.photos/seed/ironfit-james/640/800.jpg" alt="James Okafor, Olympic weightlifting coach at IronFit" loading="lazy" decoding="async">
           <div class="trainer-hover">
             <p>Competed internationally before moving into coaching. Patient with beginners, ruthless with technique errors — in the kindest possible way.</p>
             <p><strong>Focus:</strong> snatch &amp; clean &amp; jerk, positional strength.</p>
@@ -843,7 +844,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
       </article>
       <article class="trainer" data-reveal style="--rd:.24s">
         <div class="trainer-photo">
-          <img src="https://images.unsplash.com/photo-1576678927484-cc907957088c?q=80&w=700&h=933&auto=format&fit=crop&crop=faces" alt="Sofia Andersson, mobility coach at IronFit" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/ironfit-sofia/640/800.jpg'">
+          <img src="https://picsum.photos/seed/ironfit-sofia/640/800.jpg" alt="Sofia Andersson, mobility coach at IronFit" loading="lazy" decoding="async">
           <div class="trainer-hover">
             <p>Works with everyone from desk-bound beginners to masters athletes. If it's stiff, creaky, or hasn't moved in a decade, it's her favorite project.</p>
             <p><strong>Focus:</strong> mobility, back care, training over 50.</p>
@@ -1339,10 +1340,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
     $$('.class-row').forEach(function (row) {
       row.addEventListener('mouseenter', function () {
         var item = row.closest('.class-item');
-        if (item) {
-          pImg.onerror = function () { pImg.onerror = null; pImg.src = item.getAttribute('data-fallback'); };
-          pImg.src = item.getAttribute('data-img');
-        }
+        if (item) { pImg.src = item.getAttribute('data-img'); }
         oTarget = 1; kick();
       });
       row.addEventListener('mouseleave', function () { oTarget = 0; kick(); });
